@@ -1,3 +1,4 @@
+@current
 Caracteristica: Votar
 
   Para que mi opinion se tenga en cuenta en las decisiones del parlamento

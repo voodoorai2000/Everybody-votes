@@ -1,0 +1,2 @@
+default: --language es features
+current: --language es --tags @current features
