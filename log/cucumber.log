@@ -1,0 +1,138 @@
+# Logfile created on Wed Nov 25 15:56:26 +0100 2009REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-11-25 16:01:44) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:03:20) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-11-25 16:03:20) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:03:34) [GET]
+Rendering welcome/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:04:18) [GET]
+Rendering welcome/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:05:16) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:06:07) [GET]
+Rendering welcome/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:06:44) [GET]
+Rendering welcome/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:10:51) [GET]
+Rendering welcome/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:11:35) [GET]
+Rendering welcome/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:12:25) [GET]
+Rendering welcome/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.example.com/]
+  [4;36;1mCitizen Create (0.4ms)[0m   [0;1mINSERT INTO "citizens" ("name", "created_at", "updated_at") VALUES('Jose', '2009-11-25 15:12:25', '2009-11-25 15:12:25')[0m
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:13:01) [GET]
+Rendering welcome/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.example.com/]
+  [4;36;1mCitizen Create (0.5ms)[0m   [0;1mINSERT INTO "citizens" ("name", "created_at", "updated_at") VALUES('Jose', '2009-11-25 15:13:01', '2009-11-25 15:13:01')[0m
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:13:01) [GET]
+Rendering welcome/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:13:46) [GET]
+Rendering welcome/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.example.com/]
+  [4;36;1mCitizen Create (0.7ms)[0m   [0;1mINSERT INTO "citizens" ("name", "created_at", "updated_at") VALUES('Jose', '2009-11-25 15:13:46', '2009-11-25 15:13:46')[0m
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:13:47) [GET]
+Rendering welcome/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:15:11) [GET]
+Rendering welcome/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.example.com/]
+  [4;36;1mCitizen Create (0.5ms)[0m   [0;1mINSERT INTO "citizens" ("name", "created_at", "updated_at") VALUES('Jose', '2009-11-25 15:15:11', '2009-11-25 15:15:11')[0m
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:15:11) [GET]
+Rendering welcome/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:16:21) [GET]
+  [4;36;1mCitizen Load (0.5ms)[0m   [0;1mSELECT * FROM "citizens" [0m
+Rendering welcome/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://www.example.com/]
+  [4;35;1mCitizen Create (0.5ms)[0m   [0mINSERT INTO "citizens" ("name", "created_at", "updated_at") VALUES('Jose', '2009-11-25 15:16:21', '2009-11-25 15:16:21')[0m
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:16:21) [GET]
+  [4;36;1mCitizen Load (0.2ms)[0m   [0;1mSELECT * FROM "citizens" [0m
+Rendering welcome/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:19:03) [GET]
+  [4;36;1mCitizen Load (0.5ms)[0m   [0;1mSELECT * FROM "citizens" [0m
+Rendering welcome/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://www.example.com/]
+  [4;36;1mCitizen Load (0.4ms)[0m   [0;1mSELECT * FROM "citizens" [0m
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:22:30) [GET]
+  [4;35;1mCitizen Load (0.1ms)[0m   [0mSELECT * FROM "citizens" [0m
+Rendering welcome/index
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://www.example.com/]
+  [4;36;1mCitizen Load (0.1ms)[0m   [0;1mSELECT * FROM "citizens" [0m
+  [4;35;1mCitizen Create (0.7ms)[0m   [0mINSERT INTO "citizens" ("name", "created_at", "updated_at") VALUES('Jose', '2009-11-25 15:22:30', '2009-11-25 15:22:30')[0m
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-11-25 16:22:30) [GET]
+  [4;36;1mCitizen Load (0.2ms)[0m   [0;1mSELECT * FROM "citizens" [0m
+Rendering welcome/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://www.example.com/]
